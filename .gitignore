@@ -1,0 +1,7 @@
+.bin
+.idea
+.git
+*.yaml
+postgres-data/
+.vscode/
+*.env
