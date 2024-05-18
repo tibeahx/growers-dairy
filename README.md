@@ -1,4 +1,4 @@
-# Grower's Diary Server Application
+# Grower's Diary microservice
 
 PURPOSE - TRACKING YOUR HAPPY PLANTS GROWTH
 
